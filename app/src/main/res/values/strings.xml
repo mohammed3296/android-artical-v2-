@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">M-Articles</string>
+    <string name="app_description">live articles around the World</string>
+    <string name="content_authority">com.mostafa_anter.capstoneproject.app</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <!-- sources -->
+    <string name="bbc_news_name">BBC NEWS</string>
+    <string name="bbc_news_source">bbc-news</string>
+
+    <string name="bbc_sport_name">BBC SPORT</string>
+    <string name="bbc_sport_source">bbc-sport</string>
+
+    <string name="cnn_name">CNN</string>
+    <string name="cnn_source">cnn</string>
+
+    <string name="google_name">Google</string>
+    <string name="google_source">google-news</string>
+
+    <string name="national_geographic_name">NATIONAL GEOGRAPHIC</string>
+    <string name="national_geographic_source">national-geographic</string>
+
+    <string name="sky_news_name">SKY NEWS</string>
+    <string name="sky_news_source">sky-news</string>
+
+    <string name="reddit_name">REDDIT</string>
+    <string name="reddit_source">reddit-r-all</string>
+
+    <string name="cnbc_name">CNBC</string>
+    <string name="cnbc_source">cnbc</string>
+
+    <string name="entertainment_name">ENTERTAINMENT</string>
+    <string name="entertainment_source">entertainment-weekly</string>
+
+    <string name="new_scientist_name">NewScientist</string>
+    <string name="new_scientist_source">new-scientist</string>
+
+    <string name="techcrunch_name">TechCrunch</string>
+    <string name="techcrunch_source">techcrunch</string>
+    <string name="there_is_no_data">There is no data!</string>
+    <string name="toast_no_connectivity">no internet connection!</string>
+
+    <!-- google ads -->
+    <string name="banner_ad_unit_id">ca-app-pub-1992576069870831/4702718300</string>
+</resources>

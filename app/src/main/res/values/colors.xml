@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E91E63</color>
+    <color name="colorPrimaryDark">#C2185B</color>
+    <color name="primary_light">#F8BBD0</color>
+    <color name="colorAccent">#FF5252</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <!-- for swipe refresh layout -->
+    <color name="swipe_color_1">#F8BBD0</color>
+    <color name="swipe_color_2">#C2185B</color>
+    <color name="swipe_color_3">#FF5252</color>
+    <color name="swipe_color_4">#F8BBD0</color>
+</resources>
